@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="▬ Spain [ES] ▬" tvg-logo="https://picon-13398.kxcdn.com/spain.jpg" group-title="Live: Spain",▬ Spain [ES] ▬
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/16516
+#EXTINF:-1 tvg-id="Cero.es" tvg-name="Cero ES" tvg-logo="https://picon-13398.kxcdn.com/0.jpg" group-title="Live: Spain",Cero ES
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/9411
+#EXTINF:-1 tvg-id="Cero.es" tvg-name="Cero HD ES" tvg-logo="https://picon-13398.kxcdn.com/0hd.jpg" group-title="Live: Spain",Cero HD ES
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/12734
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC ES" tvg-logo="https://picon-13398.kxcdn.com/amc.jpg" group-title="Live: Spain",AMC ES
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/9438
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC HD ES" tvg-logo="https://picon-13398.kxcdn.com/amchd.jpg" group-title="Live: Spain",AMC HD ES
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/12733
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries HD ES" tvg-logo="https://picon-13398.kxcdn.com/atreserieses.jpg" group-title="Live: Spain",Atreseries HD ES
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/18382
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN ES" tvg-logo="https://picon-13398.kxcdn.com/axn.jpg" group-title="Live: Spain",AXN ES
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/5471
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN HD ES" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Live: Spain",AXN HD ES
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/12731
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN White ES" tvg-logo="https://picon-13398.kxcdn.com/axnwhite.jpg" group-title="Live: Spain",AXN White ES
+http://tv.mtbox.hitv.one:80/opAlSpHbZ7I51646/VPvvTD8241/5470
